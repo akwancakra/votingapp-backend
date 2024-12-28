@@ -110,9 +110,9 @@ Feel free to contribute to this project by submitting issues or pull requests. L
 ## 👥 Developers
 
 - **[Akwan Cakra](https://github.com/akwancakra)**
-- **[Ramandha Putra](#)**
-- **[Rafif Aiman](#)**
-- **[Rizka Alfadilla](#)**
+- **[Ramandha Putra](https://github.com/ramaGitScholar)**
+- **[Rafif Aiman](https://github.com/auahcok)**
+- **[Rizka Alfadilla](https://github.com/YeeIsRizka)**
 
 ## 📄 License
 
